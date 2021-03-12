@@ -1,4 +1,4 @@
-import 'package:trabajos_simulacion/trabajos_simulacion.dart';
+import 'package:promedios_dart/promedios_dart.dart';
 import 'package:test/test.dart';
 
 void main() {

@@ -1,5 +1,4 @@
-import 'package:trabajos_simulacion/trabajos_simulacion.dart'
-    as trabajos_simulacion;
+import 'package:promedios_dart/promedios_dart.dart' as promedios_dart;
 import 'dart:math';
 
 List<double> valores = [
